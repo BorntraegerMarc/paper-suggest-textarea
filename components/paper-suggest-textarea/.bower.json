@@ -1,0 +1,42 @@
+{
+  "name": "paper-suggest-textarea",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "A Material Design textarea that provides suggestions as the user types (Polymer 1.x)",
+  "main": "paper-suggest-textarea.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper",
+    "material design",
+    "textarea",
+    "input",
+    "suggest"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/collaborne/paper-suggest-textarea",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-input": "PolymerElements/paper-input#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "test-fixture": "polymerelements/test-fixture#^1.0.0",
+    "web-component-tester": "*",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "70eb1c261e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "70eb1c261e32e586f791f5ec8be960a486c2cc22"
+  },
+  "_source": "git://github.com/Collaborne/paper-suggest-textarea.git",
+  "_target": "master",
+  "_originalSource": "Collaborne/paper-suggest-textarea",
+  "_direct": true
+}
